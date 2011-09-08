@@ -1,0 +1,3 @@
+Clear text	 : This is a secret message
+Encrypted text	 : 8Ò·0tãE…Eÿ \@ŸZ9Tı)ê§a±
+Decrypted text	 : This is a secret message
